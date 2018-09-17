@@ -1,5 +1,5 @@
 _repo: The-Genealogy-of-Morals-The-Complete-Works-Volume-Thirteen-edited-by-Dr-Oscar-Levy_52319
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Zur Genealogie der Moral. English
 contributor:
   translators:
@@ -13,6 +13,9 @@ contributor:
     deathdate: 1950
     gutenberg_agent_id: '42900'
     url: http://www.gutenberg.org/2009/agents/42900
+covers:
+- cover_type: archival
+  image_path: 52319-h/images/cover.jpg
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: 'Also contains: Peoples and Countries (fragment).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52319#The-Genealogy-of-Morals-The-Complete-Works-Volume-Thirteen-edited-by-Dr-Oscar-Levy
 gutenberg_issued: '2016-06-13'
 gutenberg_type: Text
 identifiers:
